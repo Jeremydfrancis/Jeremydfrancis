@@ -19,3 +19,6 @@ I believe in creating seamless and intuitive user experiences with modern web te
 - **Programming with JavaScript** – Meta, September 2023
 - **Version Control** – Meta, September 2023
 - **Introduction to Front-End Development** – Meta, August 2023
+
+Let's build something amazing together!  
+📫 Reach out: [jeremydfrancis0@gmail.com](mailto:jeremydfrancis0@gmail.com)
