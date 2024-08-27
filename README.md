@@ -1,2 +1,2 @@
-![Banner](https://raw.githubusercontent.com/yourusername/yourrepository/main/Screenshot%202024-08-27%20172800.png)
+![Banner](Screenshot 2024-08-27 172800.png)
 
