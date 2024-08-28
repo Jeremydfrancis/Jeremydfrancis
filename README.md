@@ -31,5 +31,9 @@
 - 🛠️ **Version Control** – Meta, September 2023
 - 🔍 **Introduction to Front-End Development** – Meta, August 2023
 
-Let's build something amazing together!  
-📫 Reach out: [jeremydfrancis0@gmail.com](mailto:jeremydfrancis0@gmail.com)
+<div style="background-color: #f0f0f0; padding: 20px; text-align: center;">
+  <p style="margin: 0;">
+    Let's build something amazing together!<br>
+    📫 Reach out: <a href="mailto:jeremydfrancis0@gmail.com">jeremydfrancis0@gmail.com</a>
+  </p>
+</div>
