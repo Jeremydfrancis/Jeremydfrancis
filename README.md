@@ -1,4 +1,4 @@
-![Banner](GithubBanner.jpg)
+
 <img src="GithubBanner3.jpg" alt="Photo of me">
 
 ![Banner](Banner.png)
