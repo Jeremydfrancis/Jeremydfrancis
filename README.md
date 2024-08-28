@@ -31,8 +31,8 @@
 - 🛠️ **Version Control** – Meta, September 2023
 - 🔍 **Introduction to Front-End Development** – Meta, August 2023
 
-
-
+<br>
+<br>
 <table align="center">
   <tr>
     <td align="center">
