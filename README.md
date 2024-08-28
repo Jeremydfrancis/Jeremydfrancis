@@ -1,4 +1,4 @@
-![Banner](Banner.png)
+![Banner](GithubBanner.png)
 
 ![Banner](Banner.png)
 
