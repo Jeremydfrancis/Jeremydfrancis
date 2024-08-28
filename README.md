@@ -31,8 +31,8 @@
 - 🛠️ **Version Control** – Meta, September 2023
 - 🔍 **Introduction to Front-End Development** – Meta, August 2023
 
-<div style="background-color: #f0f0f0; padding: 20px; text-align: center;">
-  <p style="margin: 0;">
+<div align="center">
+  <p align="center'>
     Let's build something amazing together!<br>
     📫 Reach out: <a href="mailto:jeremydfrancis0@gmail.com">jeremydfrancis0@gmail.com</a>
   </p>
