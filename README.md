@@ -31,6 +31,8 @@
 - 🛠️ **Version Control** – Meta, September 2023
 - 🔍 **Introduction to Front-End Development** – Meta, August 2023
 
+
+
 <table align="center" style="width:100%; background-color: #f0f0f0; padding: 10px;">
   <tr>
     <td align="center">
