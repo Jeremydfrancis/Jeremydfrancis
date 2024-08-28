@@ -9,11 +9,15 @@
 
 
 
-I believe in creating seamless and intuitive user experiences with modern web technologies. Join me on my journey through web development!
+<p align="center">
+  I believe in creating seamless and intuitive user experiences with modern web technologies. Join me on my journey through web development!
+</p>
 
-🌟 [Check out my portfolio](https://jeremydfrancis.dev)
-🔥 [Explore my GitHub projects](https://github.com/Jeremydfrancis)
-🎓 [Connect with me on LinkedIn](https://www.linkedin.com/in/jeremy-francis-022499279/)
+<p align="center">
+  🌟 <a href="https://jeremydfrancis.dev">Check out my portfolio</a><br>
+  🔥 <a href="https://github.com/Jeremydfrancis">Explore my GitHub projects</a><br>
+  🎓 <a href="https://www.linkedin.com/in/jeremy-francis-022499279/">Connect with me on LinkedIn</a>
+</p>
 
 
 ## 🎓 Achievements
