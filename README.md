@@ -1,8 +1,8 @@
 
 <img src="GithubBanner3.jpg" alt="Photo of me">
 
-![Banner](Banner.png)
-<img src="Banner.jpg" alt="Web Developer" width="600">
+
+<img src="Banner.png" alt="Web Developer" width="600">
 
 I believe in creating seamless and intuitive user experiences with modern web technologies. Join me on my journey through web development!
 
