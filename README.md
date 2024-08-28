@@ -1,5 +1,5 @@
 ![Banner](GithubBanner.jpg)
-<img src="GithubBanner.jpg" alt="Photo of me" width="1200" height="900">
+<img src="GithubBanner3.jpg" alt="Photo of me">
 
 ![Banner](Banner.png)
 
