@@ -33,7 +33,7 @@
 
 
 
-<table align="center" style="width:100%; background-color: #f0f0f0; padding: 10px;">
+<table align="center">
   <tr>
     <td align="center">
       Let's build something amazing together!<br>
