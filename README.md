@@ -18,6 +18,8 @@
   🔥 <a href="https://github.com/Jeremydfrancis">Explore my GitHub projects</a><br>
   🎓 <a href="https://www.linkedin.com/in/jeremy-francis-022499279/">Connect with me on LinkedIn</a>
 </p>
+<br>
+<br>
 
 
 ## 🎓 Achievements
