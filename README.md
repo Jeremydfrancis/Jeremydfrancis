@@ -1,4 +1,11 @@
-<img src="GithubBanner3.jpg" alt="Photo of me" style="display: block; margin: 0 auto;">
+<table>
+  <tr>
+    <td align="center">
+      <img src="GithubBanner3.jpg" alt="Photo of me">
+      <img src="Banner.png" alt="Web Developer" width="600">
+    </td>
+  </tr>
+</table>
 
 
 
