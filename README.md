@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="GithubBanner3.jpg" alt="Jeremy Francis" width="100%" style="border-radius: 12px;" />
+  <img src="GithubBanner3.jpg" alt="Jeremy Francis" width="75%" height="auto" style="border-radius: 12px;" />
 </div>
 
 <br />
